@@ -4,5 +4,5 @@
 
 > Keep calm and coding.
 
-🇨🇳 China Xiamen・🕹Web developer
+China Xiamen・Coder
 
